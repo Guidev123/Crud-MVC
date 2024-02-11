@@ -1,0 +1,12 @@
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Business\bin\Debug\net8.0\DevEcomerce.Business.deps.json
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Business\bin\Debug\net8.0\DevEcomerce.Business.dll
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Business\bin\Debug\net8.0\DevEcomerce.Business.pdb
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Business\obj\Debug\net8.0\DevEcomerce.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Business\obj\Debug\net8.0\DevEcomerce.Business.AssemblyInfoInputs.cache
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Business\obj\Debug\net8.0\DevEcomerce.Business.AssemblyInfo.cs
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Business\obj\Debug\net8.0\DevEcomerce.Business.csproj.CoreCompileInputs.cache
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Business\obj\Debug\net8.0\DevEcomerce.Business.dll
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Business\obj\Debug\net8.0\refint\DevEcomerce.Business.dll
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Business\obj\Debug\net8.0\DevEcomerce.Business.pdb
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Business\obj\Debug\net8.0\ref\DevEcomerce.Business.dll
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Business\obj\Debug\net8.0\DevEcomerce.Business.sourcelink.json
