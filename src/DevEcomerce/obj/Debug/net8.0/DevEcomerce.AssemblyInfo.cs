@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevEcomerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bf7e8f2f18c64901a2b84b7389161ccf535c721")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d45def240144863c8b4cda2f6434bd36f911a596")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevEcomerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevEcomerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
