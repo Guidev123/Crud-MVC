@@ -8,9 +8,9 @@ E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Data\obj\Debug\net8.0\DevEcomerce.D
 E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Data\obj\Debug\net8.0\DevEcomerce.Data.AssemblyInfoInputs.cache
 E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Data\obj\Debug\net8.0\DevEcomerce.Data.AssemblyInfo.cs
 E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Data\obj\Debug\net8.0\DevEcomerce.Data.csproj.CoreCompileInputs.cache
-E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Data\obj\Debug\net8.0\DevEcomerce.Data.csproj.CopyComplete
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Data\obj\Debug\net8.0\DevEcomerce.Data.sourcelink.json
+E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Data\obj\Debug\net8.0\DevEcome.BA986F78.Up2Date
 E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Data\obj\Debug\net8.0\DevEcomerce.Data.dll
 E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Data\obj\Debug\net8.0\refint\DevEcomerce.Data.dll
 E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Data\obj\Debug\net8.0\DevEcomerce.Data.pdb
 E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Data\obj\Debug\net8.0\ref\DevEcomerce.Data.dll
-E:\Curso\MinhaAppMvcCompleta\src\DevEcomerce.Data\obj\Debug\net8.0\DevEcomerce.Data.sourcelink.json

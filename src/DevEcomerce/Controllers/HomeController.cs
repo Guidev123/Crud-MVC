@@ -1,4 +1,4 @@
-using DevEcomerce.Models;
+using DevEcomerce.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 

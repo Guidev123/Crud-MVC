@@ -19,7 +19,7 @@ namespace DevEcomerce.Data.Repository
 
         public Repository(EcomerceDbContext db)
         {
-             Db= db;
+             Db = db;
              DbSet = db.Set<TEntity>(); 
         }
         public async Task<IEnumerable<TEntity>> Buscar(Expression<Func<TEntity, bool>> predicate)
@@ -39,19 +39,19 @@ namespace DevEcomerce.Data.Repository
         public virtual async Task Adicionar(TEntity entity)
         {
             DbSet.Add(entity);
-            await Db.SaveChangesAsync(); //ATENCAO
+            await SaveChanges();
         }
 
         public virtual async Task Atualizar(TEntity entity)
         {
             DbSet.Update(entity);
-            await Db.SaveChangesAsync();
+            await SaveChanges();
         }
         public virtual async Task Remover(Guid id)
         {
             var entity = new TEntity { Id = id };
             DbSet.Remove(entity);
-            await Db.SaveChangesAsync();
+            await SaveChanges();
         }
 
         public async Task<int> SaveChanges()

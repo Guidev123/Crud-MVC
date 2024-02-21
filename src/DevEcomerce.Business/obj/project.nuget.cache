@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LZRy/H01ckKjoV+RJyTVN4kq05fD9qACohbVlTrM6IfnXmJkWyxZCn4f763IwTjEgraEj4sDd3JL0/UmPRAebg==",
+  "dgSpecHash": "MmP0RhngzacaTaKw/NmLYYRs6FsJXi2qSDdtX7cCBoZFhdjrPSoJQXH9RtBa6/qtzl8igDaCnPJMqMuSZj7W1g==",
   "success": true,
   "projectFilePath": "E:\\Curso\\MinhaAppMvcCompleta\\src\\DevEcomerce.Business\\DevEcomerce.Business.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guira\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
   "logs": []
 }

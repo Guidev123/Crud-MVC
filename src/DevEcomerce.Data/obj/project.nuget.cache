@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jALCs+2mG7ACH6+DSbi5kkwM10KGbn61OujCqEpBGs8tV6MDNtUAu/5vRtLxOPcGcHXIOCuSSIZI9/LmNNnQog==",
+  "dgSpecHash": "PVi/1tRRfpfcSQMXfV4d701NQ+8uCme74IrC0r5jLG7XeTnhRcTa9S5/vkwtk9upr+LL8lhNkDbe3IdUyfwI4w==",
   "success": true,
   "projectFilePath": "E:\\Curso\\MinhaAppMvcCompleta\\src\\DevEcomerce.Data\\DevEcomerce.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guira\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\guira\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\guira\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\guira\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\guira\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\guira\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",

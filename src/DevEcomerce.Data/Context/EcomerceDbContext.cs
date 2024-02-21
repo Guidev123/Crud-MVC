@@ -1,10 +1,5 @@
 ﻿using DevEcomerce.Business.Models;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 namespace DevEcomerce.Data.Context
 {
     public class EcomerceDbContext : DbContext
@@ -12,7 +7,8 @@ namespace DevEcomerce.Data.Context
         public EcomerceDbContext(DbContextOptions options)
             :base(options)
         {
-
+            ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
+            ChangeTracker.AutoDetectChangesEnabled = false; //Config asnotracking
         }
         public DbSet<Produto> Produtos { get; set; }
         public DbSet<Endereco> Enderecos { get; set; }

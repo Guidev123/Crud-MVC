@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using DevEcomerce.ViewModels;
 
 namespace DevEcomerce.Data
 {
@@ -9,5 +10,6 @@ namespace DevEcomerce.Data
             : base(options)
         {
         }
+        //public DbSet<DevEcomerce.ViewModels.ProdutoViewModel> ProdutoViewModel { get; set; } = default!;
     }
 }
