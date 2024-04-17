@@ -1,6 +1,6 @@
-<h1>Projeto E-commerce de Veículos ASP.NET Core MVC</h1>
+<h1>Projeto Crud aprimorado de fornecedores e produtos em ASP.NET Core MVC</h1>
 
-<h5>Bem-vindo ao projeto E-commerce de Veículos, uma aplicação web desenvolvida em ASP.NET Core MVC, utilizando um banco de dados SQL Server e seguindo os princípios de Domain Driven Design (DDD) e SOLID. <br/> Este projeto é estruturado em 3 camadas de negócio para garantir uma arquitetura modular e escalável.</h5>
+<h5>Bem-vindo ao Crud de fornecedores e veiculos, uma aplicação web desenvolvida em ASP.NET Core MVC, utilizando um banco de dados SQL Server e seguindo os princípios de Domain Driven Design (DDD) e SOLID. <br/> Este projeto é estruturado em 3 camadas de negócio para garantir uma arquitetura modular e escalável.</h5>
 
 
 <h6>Funcionamento do E-commerce abaixo:</h6>
