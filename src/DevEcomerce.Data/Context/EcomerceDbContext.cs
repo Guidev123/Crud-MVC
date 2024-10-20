@@ -8,7 +8,7 @@ namespace DevEcomerce.Data.Context
             :base(options)
         {
             ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
-            ChangeTracker.AutoDetectChangesEnabled = false; //Config asnotracking
+            ChangeTracker.AutoDetectChangesEnabled = false;
         }
         public DbSet<Produto> Produtos { get; set; }
         public DbSet<Endereco> Enderecos { get; set; }
@@ -25,7 +25,7 @@ namespace DevEcomerce.Data.Context
 
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(EcomerceDbContext).Assembly);
 
-            //Isto serve para desativar o modo cascata, por exemplo um fornecedor que tenha vários produtos é deletado e os produtos iriam ser deletados junto, mas desativando o Cascate desta maneira, isso não ocorrera e teremos que exculuir os produtos um por um no sistema
+            
             foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys())) relationship.DeleteBehavior = DeleteBehavior.ClientSetNull;
 
             base.OnModelCreating(modelBuilder);
