@@ -18,8 +18,7 @@ namespace DevEcomerce.Data.Repository
         }
         public async Task<Produto> ObterProdutoFornecedor(Guid id)
         {
-            //return await Db.Produtos.AsNoTracking().Include(f => f.Fornecedor).FirstOrDefaultAsync(p => p.Id == id);
-            //return await Db.Produtos.Include(f => f.Fornecedor).FirstAsync(c => c.Id == id);
+
             return await Db.Produtos.AsNoTracking().Include(f => f.Fornecedor).FirstAsync(p => p.Id == id);
         }
 
